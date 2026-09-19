@@ -1,6 +1,7 @@
 # Changing the BSoD Emoticon
 
 ## Target / Expected Result
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/bac1e956-95ec-4bdb-a2b8-65a28186af33" />
 
 The goal of this walkthrough is to use **WinDbg** to locate the string used by the Windows kernel when displaying the BSOD and, in a controlled debugging environment, change the emoticon from:
 
